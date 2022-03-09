@@ -1,0 +1,11 @@
+# Ignore files
+fastcgi_params
+mime.types
+nginx.conf.bak
+scgi_params
+uwsgi_params
+
+# Ignore directory
+modsec
+modules
+ssl
